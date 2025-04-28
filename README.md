@@ -4,6 +4,7 @@
 
 I'am a highly motivated Computer Science student with a strong foundation in software development, data structures, and algorithms. My background as a Non-Commissioned Officer in the U.S. Army and Firefighter/EMT brings strong leadership, teamwork, and crisis management skills, along with a solid technical concept understanding. My passion for continuous learning enables me to easily adapt and be successful in dynamic, high-pressure environments where problem-solving abilities and technical expertise are leveraged in contributing toward team success.
 
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Capstone Project </b>
@@ -20,6 +21,7 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
       - Building predictive algorithms (rule-based & machine learning models).
         ![image](https://github.com/user-attachments/assets/8131d79b-b45a-4cc1-af21-9170963687c7)
 
+
 - <b>UI/UX Prototype Project </b>
   - [AuditThisCourse](https://www.figma.com/proto/RIGnAim6zK1ccn9nM6ljo5/AuditThisCourse?node-id=312-341&t=59vZNcCnkZWAsHit-1&scaling=scale-down&page-id=312%3A249&starting-point-node-id=312%3A341)
   - Our team developed a Figma prototype for a platform to help students assess course difficulty and workload before enrolling.
@@ -32,6 +34,7 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
     - Implemented search and filtering functionalities for courses.
     - Enabled users to write reviews and rate courses on multiple criteria.
     - Incorporated privacy and authenticity measures (verified accounts, anonymous reviews).
+
 
 - <b>Computer Graphics Modeling Project </b>
   - [AuditThisCourse](https://www.figma.com/proto/RIGnAim6zK1ccn9nM6ljo5/AuditThisCourse?node-id=312-341&t=59vZNcCnkZWAsHit-1&scaling=scale-down&page-id=312%3A249&starting-point-node-id=312%3A341)
@@ -47,6 +50,7 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
     - Implemented camera control using gluLookAt for proper positioning of the camera relative to moving objects.
     - Learned trial-and-error debugging in OpenGL, including managing transformations and camera angles.
     - Explored time-based calculations for dynamic positioning and movement of planets.
+
 
 - <b>Database Design and Implementation Project </b>
   - Our team developed a database-driven web application for Space Academy, an institution tracking student enrollments, courses, professors, and departments.
@@ -65,10 +69,12 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
     - Ensured the web application was easily navigable and user-friendly for administrators.
       ![Picture3](https://github.com/user-attachments/assets/fa2da1f7-52e8-4a91-91d7-83a7f1caeceb)
 
+
 <h2>📖 Education:</h2>
 
 - Bachelor of Computer Science | Minor in Psychology | 4.00 GPA | Oregon State University | Corvallis, OR (Online) | 2025
 - Associate of Arts, Direct Transfer Agreement | 3.95 GPA | Skagit Valley College | Oak Harbor, WA | 2017
+
 
 <h2>📝 Certifications:</h2>
 
