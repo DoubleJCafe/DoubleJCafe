@@ -20,6 +20,22 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
       - Building predictive algorithms (rule-based & machine learning models).
         ![image](https://github.com/user-attachments/assets/8131d79b-b45a-4cc1-af21-9170963687c7)
 
+- <b>UI/UX Prototype </b>
+  - [AuditThisCourse](https://www.figma.com/proto/RIGnAim6zK1ccn9nM6ljo5/AuditThisCourse?node-id=312-341&t=59vZNcCnkZWAsHit-1&scaling=scale-down&page-id=312%3A249&starting-point-node-id=312%3A341)
+  - Our team developed a Figma prototype for a platform to help students assess course difficulty and workload before enrolling.
+  - Goal of Project: Provide centralized, reliable information on course difficulty and workload through a user-centered design.
+  - Key aspects of the project:
+    - Created a Figma prototype to visualize the platform's user interface.
+    - Focused on learning usability engineering and applying user-centered design principles.
+    - Allowed students to share detailed course information (difficulty, time commitment, etc.).
+    - Implemented search and filtering functionalities for courses.
+    - Enabled users to write reviews and rate courses on multiple criteria.
+      ![figma](https://github.com/user-attachments/assets/a59cdeb2-0733-4ee5-97db-099440da188b)
+    - Incorporated privacy and authenticity measures (verified accounts, anonymous reviews).
+
+- <b>Capstone Project </b>
+- <b>Capstone Project </b>
+
 <h2>📖 Education:</h2>
 
 - Bachelor of Computer Science | Minor in Psychology | 4.00 GPA | Oregon State University | Corvallis, OR (Online) | 2025
