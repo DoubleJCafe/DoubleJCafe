@@ -48,7 +48,22 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
     - Learned trial-and-error debugging in OpenGL, including managing transformations and camera angles.
     - Explored time-based calculations for dynamic positioning and movement of planets.
 
-- <b>Capstone Project </b>
+- <b>Database Design and Implementation Project </b>
+  - Our team developed a database-driven web application for Space Academy, an institution tracking student enrollments, courses, professors, and departments.
+  - Goal of Project: Manage and organize academic records for a space-themed university.
+  - Key aspects of the project:
+    - Designed an ERD and database schema to model students, courses, professors, enrollments, and departments.
+    - Implemented M:N relationships using intersection tables (e.g., CourseEnrollments, ProfessorAssignments).
+      ![Picture1](https://github.com/user-attachments/assets/849d7a5c-a6b9-4c95-8543-58370793f5d3)
+    - Allowed students to enroll in courses and professors to be assigned to teach those courses.
+    - Managed department budgets and professor salaries with data-driven CRUD operations.
+    - Updated web UI for better readability, using currency formatting and improved form design.
+      ![Picture2](https://github.com/user-attachments/assets/410cbb85-d716-4d07-a9c5-144b31f983df)
+    - Implemented CASCADE operations in table creation for data integrity (ON DELETE CASCADE, ON DELETE SET NULL).
+  - Achievements:
+    - Created dynamic web pages to manage students, professors, courses, enrollments, and departments.
+    - Ensured the web application was easily navigable and user-friendly for administrators.
+      ![Picture3](https://github.com/user-attachments/assets/fa2da1f7-52e8-4a91-91d7-83a7f1caeceb)
 
 <h2>📖 Education:</h2>
 
