@@ -42,7 +42,7 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
       ![Picture1](https://github.com/user-attachments/assets/4f78bf55-78db-449a-a34d-e29c1394ba19)
     - Scaled planets and orbits according to real-world proportions.
     - Applied textures to all planets and the Sun, and made the Sun a point light source.
-      ![Picture1](https://github.com/user-attachments/assets/c118bc9b-03e4-4f93-834a-ad8a8c5a3e5c)
+      ![Picture2](https://github.com/user-attachments/assets/8d9157e1-894c-4447-a00f-1d5be8db3f02)
     - Encapsulated the entire scene in a sphere with a starry background.
     - Implemented camera control using gluLookAt for proper positioning of the camera relative to moving objects.
     - Learned trial-and-error debugging in OpenGL, including managing transformations and camera angles.
