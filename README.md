@@ -33,7 +33,21 @@ I'am a highly motivated Computer Science student with a strong foundation in sof
     - Enabled users to write reviews and rate courses on multiple criteria.
     - Incorporated privacy and authenticity measures (verified accounts, anonymous reviews).
 
-- <b>Capstone Project </b>
+- <b>Computer Graphics Modeling Project </b>
+  - [AuditThisCourse](https://www.figma.com/proto/RIGnAim6zK1ccn9nM6ljo5/AuditThisCourse?node-id=312-341&t=59vZNcCnkZWAsHit-1&scaling=scale-down&page-id=312%3A249&starting-point-node-id=312%3A341)
+  - Created a Solar System simulation using OpenGL, incorporating realistic planetary motions and Kepler's Third Law of planetary motion.
+  - Goal of Project: Simulate the Solar System with realistic orbital mechanics and celestial bodies.
+  - Key aspects of the project:
+    - Used Kepler’s Third Law for orbital speed and position calculations.
+      ![Picture1](https://github.com/user-attachments/assets/4f78bf55-78db-449a-a34d-e29c1394ba19)
+    - Scaled planets and orbits according to real-world proportions.
+    - Applied textures to all planets and the Sun, and made the Sun a point light source.
+      ![Picture1](https://github.com/user-attachments/assets/c118bc9b-03e4-4f93-834a-ad8a8c5a3e5c)
+    - Encapsulated the entire scene in a sphere with a starry background.
+    - Implemented camera control using gluLookAt for proper positioning of the camera relative to moving objects.
+    - Learned trial-and-error debugging in OpenGL, including managing transformations and camera angles.
+    - Explored time-based calculations for dynamic positioning and movement of planets.
+
 - <b>Capstone Project </b>
 
 <h2>📖 Education:</h2>
